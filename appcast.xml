@@ -4,11 +4,11 @@
         <title>3DtoMe</title>
         <item>
             <title>0.9.1</title>
-            <pubDate>Thu, 27 Feb 2025 18:10:47 +0100</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Fri, 28 Feb 2025 10:14:38 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jalexfollosco26/SparkleUpdateTest/releases/download/prod/3DtoMe_sparkle.dmg" length="14634363" type="application/octet-stream"/>
+            <enclosure url="https://github.com/jalexfollosco26/SparkleUpdateTest/releases/download/prod/3DtoMe_sparkle_test.dmg" length="14634312" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
