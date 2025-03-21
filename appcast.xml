@@ -4,11 +4,11 @@
         <title>3DtoMeforZakeke</title>
         <item>
             <title>0.9.0</title>
-            <pubDate>Fri, 21 Mar 2025 16:46:40 +0100</pubDate>
+            <pubDate>Fri, 21 Mar 2025 17:30:02 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jalexfollosco26/SparkleUpdateTest/releases/download/prod/3DtoMe_Zakeke.dmg" length="12934216" type="application/octet-stream"/>
+            <enclosure url="https://github.com/jalexfollosco26/SparkleUpdateTest/releases/download/prod/3DtoMe_Zakeke.dmg" length="12934192" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
